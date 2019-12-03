@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Pour tester un lien [cliquez ici] (https://www.google/com).
+Pour tester un lien [cliquez ici](https://www.google/com).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
